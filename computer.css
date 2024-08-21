@@ -1,0 +1,32 @@
+ .ehsan {
+	    display: inline-block;
+		 background-color: black;
+		 height: 500px;
+		 width: 250px;
+		}
+	p {
+        color: white;
+		margin: 25px;
+
+	}		
+	
+	.button {
+		
+		display: inline-block;
+		margin: 10px;
+		background-color: blue;
+		height: 50px;
+		width: 70px;
+	}
+	
+	button {
+		background-color: blue;
+		height: 50px;
+		width: 90px;
+		color: white;
+	}
+	img {
+		 margin: 10px;
+		 height: 150px;
+		 width: 150px;
+	}
